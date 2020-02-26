@@ -1,0 +1,2 @@
+# thesis
+Nowadays a lot of web services still uses the (old) protocol http/1.1 that was designed in a different context than the current we are living on. As software engineer, every day we try to improve systems that we designed: to reduce costs, improve data transportation, reduce timing ... etc. This project show a real difference between the usage of a old protocol and a more recent one, specifically about HTTP.
